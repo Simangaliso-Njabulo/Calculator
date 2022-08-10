@@ -1,3 +1,4 @@
+//This is an amazing program
 package com.houarizegai.calculator;
 
 import java.awt.Cursor;
